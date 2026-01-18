@@ -1,0 +1,4 @@
+pycryptodome
+mysql-connector-python
+pyperclip
+rich
